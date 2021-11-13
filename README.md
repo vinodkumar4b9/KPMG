@@ -41,6 +41,11 @@ if you want to fetch any specific value , you can parse that in Json query and g
 ![image](https://user-images.githubusercontent.com/12294021/141624305-ded7905e-42e9-4213-a872-b89bbe0d211d.png)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Regarding Task 3 , I have created a python script to get required output (nested-object.py) , You can run the command and will get required output , there are some prerequiste for this which was mentioned in Pythin script in inline comments , Please do read them before running the script
+
+![image](https://user-images.githubusercontent.com/12294021/141651405-d179b7b3-bafe-44fc-95b9-b73a6ab44a19.png)
+
 
 
 
