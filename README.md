@@ -8,7 +8,7 @@ This template demonstrates using the AWS CloudFormation bootstrap scripts to ins
 launch time
 
 
-Note: In the template I have mentioned , I will explain the steps briefly and stages and you can use the template in any region. As mentioned in document main purpose  of this yaml  is focused on the steps that are needed to setup a three tier  not the final output , Taking that into consideration I have made the template. Please find the details below 
+Note: In this template , I will explain the steps briefly and stages and you can use the template in any region. One thing I want to Highlight here is the  main purpose  of this setup is focused on the steps that are needed to setup a three tier  not the final output , Taking that into consideration I have made the template. Please find the details below 
 
 ---------------------------------------
 
@@ -35,7 +35,7 @@ Pass the Required values in Parameterts and then click on Next and in End click 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Challenge 2
 
-Regarding Task 2 I have created a shell script(meta.sh) that will query the meta data of an instance within AWS in JSOM format, You can use the Simple shell script which fetches the data in JSON format as below 
+Regarding Task 2 I have created a shell script(meta.sh) that will query the meta data of an instance within AWS in JSON format, You can use the Simple shell script which fetches the data in JSON format as below 
 
 ![image](https://user-images.githubusercontent.com/12294021/141623019-041fee0b-da47-4656-b632-39bd9d56ef78.png)
 
