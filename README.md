@@ -29,3 +29,18 @@ Pass the Required values in Parameterts and then click on Next and in End click 
 ![image](https://user-images.githubusercontent.com/12294021/141615000-606b6838-61ba-4cac-a59b-51eb1d278a25.png)
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 2
+
+Regarding Task 2 I have created a shell script(meta.sh) that will query the meta data of an instance within AWS in JSOM format, You can use the Simple shell script which fetches the data in JSON format as below 
+
+![image](https://user-images.githubusercontent.com/12294021/141623019-041fee0b-da47-4656-b632-39bd9d56ef78.png)
+
+if you want to fetch any specific value , you can parse that in Json query and get that for example in this case instance id as shown below 
+![image](https://user-images.githubusercontent.com/12294021/141624305-ded7905e-42e9-4213-a872-b89bbe0d211d.png)
+
+
+
+
+
