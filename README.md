@@ -1,4 +1,5 @@
-A highly available, scalable LAMP stack with an Amazon RDS database instance for the backend data store.
+A highly available, scalable LAMP stack with an Amazon RDS database instance for the backend data store , YOu cahn find the template in YAML file which is 
+there in this repository
 
 
 This template demonstrates using the AWS CloudFormation bootstrap scripts to install
